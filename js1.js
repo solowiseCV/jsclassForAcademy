@@ -3,7 +3,7 @@ console.log("Welcome to JavaScript!");
 
 //Example 2: Using JavaScript to change HTML content
 // <!DOCTYPE html>
-// <html lang="en">
+// <html lang="en">J
 // <head>
 //     <title>JS Introduction</title>
 // </head>
