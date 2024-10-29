@@ -1,0 +1,3 @@
+const Car = {
+    model : 'Honda',
+} 
