@@ -159,3 +159,11 @@
 // // Array of key-value pairs
 // let entries = Object.entries(obj);
 // console.log(entries); // [['a', 1], ['b', 2], ['c', 3]]
+
+
+// let numbers = [1,2,3,4,5,]
+// console.log(numbers.map( function(number){
+//   return number*number
+// }));
+
+
